@@ -3,7 +3,7 @@
  * @author Trevor Hartman
  * @author Jeff Grimm
  *
- * @since Version 1.0
+ * @since Version 1.1
  */
 
 public class HelloXwing {
